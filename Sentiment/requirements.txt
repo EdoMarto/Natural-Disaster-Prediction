@@ -1,0 +1,10 @@
+# The scripts use the Keras 2.8 import paths (keras.layers.core, keras.layers.embeddings)
+tensorflow==2.8.*
+keras==2.8.*
+numpy
+pandas
+scikit-learn
+nltk
+matplotlib
+wordcloud
+pyodbc

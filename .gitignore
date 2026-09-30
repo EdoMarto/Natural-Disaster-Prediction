@@ -1,0 +1,15 @@
+# .NET build output
+bin/
+obj/
+.vs/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local tools / secrets
+chromedriver*
+.env
